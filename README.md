@@ -1,5 +1,4 @@
 ## Hi there Ashik 👋  
-<a href="https://www.linkedin.com/in/ashik-hegde-india"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" /></a> <a href="mailto:hegdeashik12@@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="40" /></a>
 
 
 <!--
