@@ -12,9 +12,7 @@ I'm a passionate developer who loves to build things and solve problems. I am al
 
 - 🔭 I’m currently working on Course Project
 - 🌱 I’m currently learning DSA
-<!-- - 👯 I’m looking to collaborate on ... -->
-<!-- - 🤔 I’m looking for help with ... -->
-<!-- - 💬 Ask me about ... -->
+- ⚙️I’m interested in WEB3 and AI
 - 📫 How to reach me: hegdeashik12@gmail.com
 - 😄 Pronouns: ... He/Him
 
