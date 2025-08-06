@@ -16,6 +16,15 @@ I'm a passionate developer who loves to build things and solve problems. I am al
 - 📫 How to reach me: hegdeashik12@gmail.com
 - 😄 Pronouns: ... He/Him
 
+## 💻 Problem Solving
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
+</p>
+
+I have solved **80+** problems on both LeetCode and GeeksforGeeks, demonstrating my skills in data structures and algorithms.
+
 ## 🛠️ My Skills
 
 ### Languages
